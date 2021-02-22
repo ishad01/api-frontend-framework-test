@@ -1,8 +1,8 @@
 # api-frontend-framework-test
 This is  only for internal use for test purpose
 
-**This is introduction about the framework and how to run it through the windows machine
-**
+**This is introduction about the framework and how to run it through the windows machine**
+
 -> This framework is BDD Data driven framwork and internal structure is based on cucumber-selenium-testng for front end api test and cucumber with restassured for back-end tests
 -> Build is supported by maven
 
@@ -24,4 +24,3 @@ Note-
 In this framework currently i am not using pojo class for rest api tests since data is small
 There are some assumptions made on assignment given on steps
 I have kept some default waits to give clear picture on its runs
-
