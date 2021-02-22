@@ -15,12 +15,13 @@ Important folders
 
 ->/src/main/java/test and /src/main/java/resources - these folders contains few custom methods which are used in stepDefinition class
 
-Execution Steps-
+**Execution Steps-**
 1. Upload the project in local
 2. Navigate to /src/test/java/stepDefinition -> TestNGRunners*
 3. Click on Run -> TestNG Runs
 
-Note- 
+Notes-
 In this framework currently i am not using pojo class for rest api tests since data is small
 There are some assumptions made on assignment given on steps
 I have kept some default waits to give clear picture on its runs
+
