@@ -10,10 +10,9 @@ Important folders
 -> /src/test/java/stepDefinition - this is java package which contains glue code of cucumber features
 +Two files are available in this folder, one is for frontend test and other is for back end test
 +There are two test runner files are available to run seperate tests for front end and back end
-
 -> /src/test/resources/features - this contains the frontend and backend cucumber files
-
-->/src/main/java/test and /src/main/java/resources - these folders contains few custom methods which are used in stepDefinition class
+->/src/main/java/test -  This is for creation of some utilities which i am using in current set up
+->/src/main/java/resources - Currently taking the data from cucumber data table and hence not using it for external data reference
 
 **Execution Steps-**
 1. Upload the project in local
