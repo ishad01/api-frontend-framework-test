@@ -19,8 +19,14 @@ Important folders
 2. Navigate to /src/test/java/stepDefinition -> TestNGRunners*
 3. Click on Run -> TestNG Runs
 
+**Referral Results Video of Run**
+
+1. https://www.screencast.com/t/GIpVtO5s - Backend video referal with results
+2. https://www.screencast.com/t/jLSNmFNGx0 - Web Based Automation referal with results
+
 Notes-
-In this framework currently i am not using pojo class for rest api tests since data is small
-There are some assumptions made on assignment given on steps
-I have kept some default waits to give clear picture on its runs
+-> In this framework currently i am not using pojo class and pico container for rest api tests since data is small
+-> There are some assumptions made on assignment given on steps
+-> I have kept some default waits to give clear picture on its runs
+-> I have used default reportings instead of Allure/testng Extent reports
 
